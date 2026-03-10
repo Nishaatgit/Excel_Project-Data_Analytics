@@ -54,7 +54,7 @@ The dashboard utilizes a complex **array formula** with multiple filtering condi
 ![Median_Salary_of_Job_Titles_Calculated](https://github.com/user-attachments/assets/efacf19e-4e96-4aae-a192-a40c697872e3)
 
 **📊 Dashboard Implemented**
-![Dashboard_Implemented_of_Calculated_Median_Salary](https://github.com/user-attachments/assets/af21b946-1c66-406d-8878-22f3fd6ca303")
+![Dashboard_Implemented_of_Calculated_Median_Salary](https://github.com/user-attachments/assets/af21b946-1c66-406d-8878-22f3fd6ca303)
 
 ### **2. Count of Job Schedule Type**
 This Excel formula below employs the FILTER() function to exclude entries containing "and" or "," and omit zero values.
@@ -76,5 +76,5 @@ This Data Jobs Salary Dashboard demonstrates the power of Excel as a comprehensi
 ---
 
 ## 👤 Author
-**Nisha Autade** Aspiring Data Analyst 
-**Skills:** Python • SQL • Excel • PowerBI • Tableau • Data Visualization
+- **Nisha Autade** Aspiring Data Analyst
+- **Skills:** Python • SQL • Excel • PowerBI • Tableau • Data Visualization
