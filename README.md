@@ -1,7 +1,7 @@
 # Excel_Project-Data_Analytics
 Project demonstrating my Excel skills 
 # 📊 Data Jobs Salary Dashboard (Excel)
-[Checkout_my_work_here](Salary_Dashboard_project1)
+[Checkout_my_work_here](Salary_Dashboard_project1.xlsx)
 
 ## 📌 Project Overview
 This project presents an **interactive Excel dashboard** analyzing global salary trends for data-related roles such as Data Analyst, Data Scientist, and Data Engineer. By exploring how job titles, geographic locations, and work schedule types influence compensation, this tool enables users to identify high-paying opportunities and regional salary patterns within the 2023 data industry.
@@ -15,7 +15,7 @@ The goal was to leverage Excel’s advanced analytical and visualization capabil
 
 ## 🛠️ Tools & Excel Skills Used
 - **📈 Data Visualization:** Designing interactive charts and map distributions using Pivot charts.
-- **🧮 Advanced Formulas:** Utilizing array formulas (MEDIAN, IF, FILTER) for dynamic data extraction.
+- **🧮 Advanced Formulas and Functions:** Utilizing array formulas (MEDIAN, IF, FILTER) for dynamic data extraction.
 - **❎ Data Validation:** Implementing dropdown filters to ensure clean, consistent user inputs.
 - **🏗️ Dashboard Architecture:** Building a performance-optimized, professional layout.
 - ** Git & GitHub:** For version control and sharing my analysis.
