@@ -12,7 +12,9 @@ The goal was to leverage Excel’s advanced analytical and visualization capabil
 
 ## 🛠️ Tools & Excel Skills Used
 - **📈 Data Visualization:** Designing interactive charts and map distributions.
-- **🧮 Advanced Formulas:** Utilizing array formulas (MEDIAN, IF, FILTER) for dynamic data extraction. - **❎ Data Validation:** Implementing dropdown filters to ensure clean, consistent user inputs. - **🏗️ Dashboard Architecture:** Building a performance-optimized, professional layout.
+- **🧮 Advanced Formulas:** Utilizing array formulas (MEDIAN, IF, FILTER) for dynamic data extraction.
+- **❎ Data Validation:** Implementing dropdown filters to ensure clean, consistent user inputs.
+- **🏗️ Dashboard Architecture:** Building a performance-optimized, professional layout.
 
 ---
 
