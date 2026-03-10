@@ -1,6 +1,7 @@
 # Excel_Project-Data_Analytics
 Project demonstrating my Excel skills 
 # 📊 Data Jobs Salary Dashboard (Excel)
+[Checkout_my_work_here](Salary_Dashboard_project1)
 
 ## 📌 Project Overview
 This project presents an **interactive Excel dashboard** analyzing global salary trends for data-related roles such as Data Analyst, Data Scientist, and Data Engineer. By exploring how job titles, geographic locations, and work schedule types influence compensation, this tool enables users to identify high-paying opportunities and regional salary patterns within the 2023 data industry.
