@@ -54,6 +54,7 @@ The dashboard utilizes a complex **array formula** with multiple filtering condi
 ![Median_Salary_of_Job_Titles_Calculated](https://github.com/user-attachments/assets/efacf19e-4e96-4aae-a192-a40c697872e3)
 
 **📊 Dashboard Implemented**
+
 ![Dashboard_Implemented_of_Calculated_Median_Salary](https://github.com/user-attachments/assets/af21b946-1c66-406d-8878-22f3fd6ca303)
 
 ### **2. Count of Job Schedule Type**
