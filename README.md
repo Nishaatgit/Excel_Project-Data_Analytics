@@ -6,7 +6,8 @@ Project demonstrating my Excel skills
 This project presents an **interactive Excel dashboard** analyzing global salary trends for data-related roles such as Data Analyst, Data Scientist, and Data Engineer. By exploring how job titles, geographic locations, and work schedule types influence compensation, this tool enables users to identify high-paying opportunities and regional salary patterns within the 2023 data industry.
 
 ## 🎯 Project Objective
-**The goal was to leverage Excel’s advanced analytical and visualization capabilities to transform raw market data into a functional business intelligence tool. This project demonstrates how data-driven insights can support strategic career decision-making.**
+The goal was to leverage Excel’s advanced analytical and visualization capabilities to transform raw market data into a functional business intelligence tool. This project demonstrates how data-driven insights can support strategic career decision-making.
+
 ---
 
 ## 🛠️ Tools & Excel Skills Used
