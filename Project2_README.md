@@ -1,36 +1,29 @@
 # 📊 Data Science Job Market Analysis (Excel)
-
-
-
 ## 📌 Project Overview
 
 As a job seeker, I noticed a significant lack of centralized data exploring the most optimal roles and skills in the modern data science market. This project aims to uncover valuable insights into how skills impact pay, regional salary disparities, and the specific technical requirements of top employers.
 
 ---
 
-\## 📑 Table of Contents
+## 📑 Table of Contents
 
-\* \[📌 Project Overview](#-project-overview)
+* 📌 Project Overview](#-project-overview)
 
-\* \[❓ Questions to Analyze](#-questions-to-analyze)
+*❓ Questions to Analyze](#-questions-to-analyze)
 
-\* \[🛠️ Tech Stack \& Skills](#-tech-stack--skills)
+* 🛠️ Tech Stack \& Skills](#-tech-stack--skills)
 
-\* \[📊 Data Pipeline (ETL)](#-data-pipeline-etl)
+* 📊 Data Pipeline (ETL)](#-data-pipeline-etl)
 
-\* \[🏗️ Data Modeling \& DAX](#-data-modeling--dax)
+* 🏗️ Data Modeling \& DAX](#-data-modeling--dax)
 
-\* \[📈 Key Insights](#-key-insights)
+* 📈 Key Insights](#-key-insights)
 
-\* \[📝 Conclusion](#-conclusion)
+* 📝 Conclusion](#-conclusion)
 
+---
 
-
-\---
-
-
-
-\## ❓ Questions to Analyze
+## ❓ Questions to Analyze
 
 To understand the data science job market, the analysis focuses on four core areas:
 
