@@ -1,16 +1,12 @@
-\# 📊 Data Science Job Market Analysis (Excel)
+# 📊 Data Science Job Market Analysis (Excel)
 
 
 
-\## 📌 Project Overview
+## 📌 Project Overview
 
-As a former job seeker, I noticed a significant lack of centralized data exploring the most optimal roles and skills in the modern data science market. This project aims to uncover valuable insights into how skills impact pay, regional salary disparities, and the specific technical requirements of top employers.
+As a job seeker, I noticed a significant lack of centralized data exploring the most optimal roles and skills in the modern data science market. This project aims to uncover valuable insights into how skills impact pay, regional salary disparities, and the specific technical requirements of top employers.
 
-
-
-\---
-
-
+---
 
 \## 📑 Table of Contents
 
