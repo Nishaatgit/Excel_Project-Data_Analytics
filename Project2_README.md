@@ -8,17 +8,11 @@ As a job seeker, I noticed a significant lack of centralized data exploring the 
 ## 📑 Table of Contents
 
 * 📌 Project Overview](#-project-overview)
-
-*❓ Questions to Analyze](#-questions-to-analyze)
-
+* Questions to Analyze](#-questions-to-analyze)
 * 🛠️ Tech Stack \& Skills](#-tech-stack--skills)
-
 * 📊 Data Pipeline (ETL)](#-data-pipeline-etl)
-
 * 🏗️ Data Modeling \& DAX](#-data-modeling--dax)
-
 * 📈 Key Insights](#-key-insights)
-
 * 📝 Conclusion](#-conclusion)
 
 ---
@@ -27,35 +21,27 @@ As a job seeker, I noticed a significant lack of centralized data exploring the 
 
 To understand the data science job market, the analysis focuses on four core areas:
 
-1\.  \*\*Skill-Pay Correlation:\*\* Determining if a higher number of specialized skills leads to better compensation.
+1.  **Skill-Pay Correlation:** Determining if a higher number of specialized skills leads to better compensation.
 
-2\.  \*\*Regional Variation:\*\* Benchmarking median salaries across different geographic regions.
+2.  **Regional Variation:** Benchmarking median salaries across different geographic regions.
 
-3\.  \*\*In-Demand Tools:\*\* Identifying the top technical skills requested by employers today.
+3.  **In-Demand Tools:** Identifying the top technical skills requested by employers today.
 
-4\.  \*\*Top Skill Compensation:\*\* Calculating the specific pay associated with the top 10 industry skills.
+4.  **Top Skill Compensation:** Calculating the specific pay associated with the top 10 industry skills.
 
+---
 
+## 🛠️ Tech Stack & Skills
 
-\---
+* **Power Query:** Used for end-to-end ETL (Extract, Transform, Load) processes.
 
+* **Power Pivot:** For building relational data models between disparate datasets.
 
+* **DAX (Data Analysis Expressions):** To create custom measures for complex median salary calculations.
 
-\## 🛠️ Tech Stack \& Skills
+* **PivotTables & Charts:** For interactive data exploration and trend visualization.
 
-\* \*\*Power Query:\*\* Used for end-to-end ETL (Extract, Transform, Load) processes.
-
-\* \*\*Power Pivot:\*\* For building relational data models between disparate datasets.
-
-\* \*\*DAX (Data Analysis Expressions):\*\* To create custom measures for complex median salary calculations.
-
-\* \*\*PivotTables \& Charts:\*\* For interactive data exploration and trend visualization.
-
-
-
-\---
-
-
+---
 
 \## 📊 Data Pipeline (ETL)
 
