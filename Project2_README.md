@@ -43,59 +43,40 @@ To understand the data science job market, the analysis focuses on four core are
 
 ---
 
-\## 📊 Data Pipeline (ETL)
+## 📊 Data Pipeline (ETL)
 
-The data preparation was handled entirely within \*\*Power Query\*\* to ensure a clean foundation for analysis.
+The data preparation was handled entirely within **Power Query** to ensure a clean foundation for analysis.
 
-\* \*\*Extraction:\*\* Raw data was pulled from `data\\\_salary\\\_all.xlsx` into two primary queries: `data\\\_jobs\\\_all` and `data\\\_job\\\_skills`.
+* **Extraction:** Raw data was pulled from `data_salary_all.xlsx` into two primary queries: `data_jobs_all` and `data_job_skills`.
 
-\* \*\*Transformation:\*\* Key steps included trimming excess whitespace, capitalizing skill text for uniformity, and removing unnecessary columns to optimize performance.
+* **Transformation:** Key steps included trimming excess whitespace, capitalizing skill text for uniformity, and removing unnecessary columns to optimize performance.
 
+---
 
+## 🏗️ Data Modeling & DAX
 
-\---
+A relational schema was established using **Power Pivot** to connect job attributes with specific skill requirements.
 
+* **Data Model:** Created a 1-to-many relationship using the `job_id` column as the primary key.
 
-
-\## 🏗️ Data Modeling \& DAX
-
-A relational schema was established using \*\*Power Pivot\*\* to connect job attributes with specific skill requirements.
-
-\* \*\*Data Model:\*\* Created a 1-to-many relationship using the `job\\\_id` column as the primary key.
-
-\* \*\*DAX Measures:\*\* Developed measures to calculate median year salaries, allowing for dynamic filtering by country and role.
+* **DAX Measures:** Developed measures to calculate median year salaries, allowing for dynamic filtering by country and role.
 
 
 
-```dax
+**dax**
+-- DAX Measure for Median Salary
 
-\\-- DAX Measure for Median Salary
+Median Salary := ```MEDIAN(data_jobs_all[salary_year_avg])```
 
-Median Salary := MEDIAN(data\\\_jobs\\\_all\\\[salary\\\_year\\\_avg])
+---
 
+## 📈 Key Insights
 
+* **Positive Correlation:** There is a direct link between the number of skills in a job posting and the offered salary, particularly for Senior Data Engineers and Data Scientists.
 
-\\---
+* **Market Value:** High-tech hubs in the US continue to command significantly higher median salaries compared to international roles.
 
-
-
-\\## 📈 Key Insights
-
-
-
-Positive Correlation: There is a direct link between the number of skills in a job posting and the offered salary, particularly for Senior Data Engineers and Data Scientists.
-
-
-
-
-
-Market Value: High-tech hubs in the US continue to command significantly higher median salaries compared to international roles.
-
-
-
-
-
-High-Value Skills: Mastery of Python and SQL remains the most reliable pathway to maximizing salary outcomes in the tech sector.
+* **High-Value Skills:** Mastery of Python and SQL remains the most reliable pathway to maximizing salary outcomes in the tech sector.
 
 
 
